@@ -23,4 +23,4 @@ console.log(booleanIsLoggedIn);
 let someNumber = 13
 let stringNumber = String(someNumber)
 console.log(stringNumber);
-console.log(type stringNumber);
+console.log(typeof stringNumber);
