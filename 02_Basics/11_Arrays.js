@@ -1,2 +1,0 @@
-// array
-const AB = []
